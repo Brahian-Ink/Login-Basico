@@ -15,7 +15,7 @@ Formulario de login simple con validación en JavaScript.
 ## Uso
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/login-basico.git
+   git clone https://github.com/Brahian-Ink/login-basico.git
 
 Abrir index.html en el navegador.
 
